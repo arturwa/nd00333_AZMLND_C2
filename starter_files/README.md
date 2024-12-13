@@ -55,7 +55,7 @@ The goal was to train a binary classification model through AutoML to identify i
 
 ## Screen Recording
 
-Link to the recording: 
+Link to the recording: https://streamable.com/gt3jsh
 
 ## Future Enhancements
 
